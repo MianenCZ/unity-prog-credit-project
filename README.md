@@ -71,17 +71,17 @@ PC with support for Xbox and PS4 controller
 
 ## R5 - New input system
 
-![](.\Report\Input.PNG)
+![](./Report/Input.PNG)
 
 ## R6 + R7 - Editor extensions
 
 | **Item** | **Recipe** |
 |---|---|
 | Defining all system and gameplay information of an item. Editor shows its 3D model as shown in game and 3D GUI. | Defining all system and gameplay information of an recipe. Editor shows its components and result also with amounts. |
-| ![](.\Report\Editor3.PNG) | ![](.\Report\Editor2.PNG) |
+| ![](./Report/Editor3.PNG) | ![](./Report/Editor2.PNG) |
 | **Loot table** | **Inventory** |
 | Defining all system and gameplay information of an item. Editor shows loot with amount and probability according to loot table type. Fields are also conditioned to make readable view.  | Showing in game inventory with all items and amounts. |
-| ![](.\Report\Editor1.PNG) | ![](.\Report\Editor4.PNG) |
+| ![](./Report/Editor1.PNG) | ![](./Report/Editor4.PNG) |
 
 ## A1 - 12
 
@@ -89,23 +89,23 @@ PC with support for Xbox and PS4 controller
 
 I enden up using lowpoly assets with a 3D GUI.
 
-![](.\Report\Inventory.PNG)
+![](./Report/Inventory.PNG)
 
 ### A9 - Non-trivial pathfinding in 3D
 
 I've created an extension for pathfinding defining acces points for destructible objects.
 
-![](.\Report\Pathfinding.PNG)
+![](./Report/Pathfinding.PNG)
 
 ### A12 - Extensive use of animations
 
 I've created animation controller for both player movement animation and combat.
 
 **Movement state automaton**
-![](.\Report\Controll1.PNG)
+![](./Report/Controll1.PNG)
 
 **Combat state sub-automaton**
-![](.\Report\Controll2.PNG)
+![](./Report/Controll2.PNG)
 
 ## Game pitch
 
