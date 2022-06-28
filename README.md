@@ -1,4 +1,4 @@
-# MMF CUNI - Unity Programing - Credit & Report
+# MMF CUNI - Unity Programming - Credit & Report
 
 ## Table of content 
 
