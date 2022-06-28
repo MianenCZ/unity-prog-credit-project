@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d27b35f561c6a2f48925f7a93acb341d, type: 3}
+  m_Name: collector_ondead_loottable 2
+  m_EditorClassIdentifier: 
+  Rolls: 2
+  LootEntries:
+  - ItemData: {fileID: 11400000, guid: d46c9fa2552951f44a62e3c94f0aedac, type: 2}
+    Weight: 0.5
+    OncePerPool: 0
+    TargetedSource: 0
+    Mode: 2
+    Value: 150
+    Min: 0
+    Max: 10
+    Tries: 5
+    SuccessProbability: 0.1
+  - ItemData: {fileID: 11400000, guid: 0d494f7a25c2a954d9ad29349f54d96d, type: 2}
+    Weight: 1
+    OncePerPool: 0
+    TargetedSource: 0
+    Mode: 1
+    Value: 1
+    Min: 1
+    Max: 5
+    Tries: 0
+    SuccessProbability: 0
+  - ItemData: {fileID: 11400000, guid: ed250339a473c454a9ebae0ad9fedbe7, type: 2}
+    Weight: 0.5
+    OncePerPool: 0
+    TargetedSource: 0
+    Mode: 2
+    Value: 1
+    Min: 0
+    Max: 0
+    Tries: 5
+    SuccessProbability: 0.1
+  - ItemData: {fileID: 11400000, guid: 9e18ada46a1a7b0439aeaea97ea4a89e, type: 2}
+    Weight: 1
+    OncePerPool: 0
+    TargetedSource: 0
+    Mode: 1
+    Value: 1
+    Min: 0
+    Max: 2
+    Tries: 0
+    SuccessProbability: 0
+  - ItemData: {fileID: 11400000, guid: d44f0674c2ec151459385fc4a0d6181e, type: 2}
+    Weight: 1
+    OncePerPool: 0
+    TargetedSource: 0
+    Mode: 1
+    Value: 1
+    Min: 3
+    Max: 10
+    Tries: 0
+    SuccessProbability: 0

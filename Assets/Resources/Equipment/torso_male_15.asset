@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51da8c21c0b483b47ba091980cb3142a, type: 3}
+  m_Name: torso_male_15
+  m_EditorClassIdentifier: 
+  Name: Torso Male 15
+  InternalName: torso_male_15
+  Description: 
+  Stackable: 1
+  StackSize: 100
+  Dropable: 1
+  Category: 0
+  Source: 0
+  Mesh: {fileID: 4300000, guid: 358b1dd23addaa2479ddc1950fa26d7d, type: 3}
+  Material: {fileID: 2100000, guid: ea128b040f8b0af4c9d2de400aaff30a, type: 2}
+  ItemIconScale: {x: 1, y: 1, z: 1}
+  ItemIconOffset: {x: 0, y: 0, z: 0}
+  ItemIconRotation: {x: 0, y: 0, z: 0}
+  ItemIngameScale: {x: 1, y: 1, z: 1}
+  ItemIngameOffset: {x: 0, y: 0, z: 0}
+  EditorIconScale: {x: 0.02, y: 0.02, z: 0.02}
+  EditorIconOffset: {x: 0, y: 0, z: 0}
+  EditorIconRotation: {x: 0, y: 0, z: 0}
+  EquipmentSlot: 24
+  Gender: 0

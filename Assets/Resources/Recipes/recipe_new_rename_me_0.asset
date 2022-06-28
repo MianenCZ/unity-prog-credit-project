@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b07be63c4b1344396f2eeec6ff564b, type: 3}
+  m_Name: recipe_new_rename_me_0
+  m_EditorClassIdentifier: 
+  Source:
+  - ItemData: {fileID: 11400000, guid: af9e0f7080f70d54dbfd5d0ecefb6c46, type: 2}
+    Amount: 1
+  - ItemData: {fileID: 11400000, guid: bd28f4849b9ddf742ac391394f09632f, type: 2}
+    Amount: 1
+  - ItemData: {fileID: 11400000, guid: d728150f72cf0204a93010b518f99be3, type: 2}
+    Amount: 1
+  Results:
+  - ItemData: {fileID: 11400000, guid: ed250339a473c454a9ebae0ad9fedbe7, type: 2}
+    Amount: 3

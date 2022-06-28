@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc6dbc7395c116b44bd5faddab9f60cc, type: 3}
+  m_Name: sm_icon_network_group_04
+  m_EditorClassIdentifier: 
+  Name: SM Icon Network Group 04
+  InternalName: sm_icon_network_group_04
+  Description: 
+  Stackable: 1
+  StackSize: 100
+  Dropable: 1
+  Category: 0
+  Source: 0
+  Mesh: {fileID: 4300000, guid: 5fb1c969beec93c45a74c26240d28449, type: 3}
+  Material: {fileID: 2100000, guid: e16ac172378295b4093bde7816670f73, type: 2}
+  ItemIconScale: {x: 1, y: 1, z: 1}
+  ItemIconOffset: {x: 0, y: 0, z: 0}
+  ItemIconRotation: {x: 0, y: 0, z: 0}
+  ItemIngameScale: {x: 1, y: 1, z: 1}
+  ItemIngameOffset: {x: 0, y: 0, z: 0}
+  EditorIconScale: {x: 1, y: 1, z: 1}
+  EditorIconOffset: {x: 0, y: 0, z: 0}
+  EditorIconRotation: {x: 0, y: 0, z: 0}
